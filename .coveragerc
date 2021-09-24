@@ -1,0 +1,7 @@
+[report]
+omit =
+    setup.py
+    telecore/__main__.py
+    telecore/_version.py
+    versioneer.py
+    tests/*
